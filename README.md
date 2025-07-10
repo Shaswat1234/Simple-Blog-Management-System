@@ -1,6 +1,6 @@
 # Simple-Blog-Management-System
 
-Simple App to apply CRUD operations and ability to login via Gmail / Github
+Simple App to apply CRUD operations 
 
 ## Project setup
 - Create new mysql database called "laravel" and run :
